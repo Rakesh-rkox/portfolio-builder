@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 720">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff7f0" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#fff7f0" stop-opacity=".08"/>
+    </linearGradient>
+  </defs>
+  <circle cx="400" cy="270" r="150" fill="url(#g)"/>
+  <path d="M110 720c0-170 120-260 290-260s290 90 290 260z" fill="url(#g)"/>
+  <text x="400" y="290" text-anchor="middle" font-family="Inter,sans-serif" font-size="26" fill="#fff7f0" fill-opacity=".7">Replace public/portrait.png</text>
+</svg>
